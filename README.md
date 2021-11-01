@@ -1,4 +1,4 @@
-# quiz
+# How good you know Serbia?
 
 A quiz about Serbia
 
